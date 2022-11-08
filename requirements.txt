@@ -11,3 +11,4 @@ numpy
 transformers
 torch
 spacy_download
+sklearn
